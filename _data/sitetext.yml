@@ -8,16 +8,17 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
+# Resonant Paths
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: In the interplay of science and music, my life composes its symphony.
-    text: Resonant Paths
-    button: Tell Me More
-    buttonlink: "#services"
+    title: In the interplay of science and music, composes life's symphony.
+    text: Machine Learing for Science
+    button: For Resonance
+    buttonlink: "#news"
 
-  services:
-    title: "Services"
+  news:
+    title: "News"
     text: "Lorem ipsum"
     section: services
     list:
