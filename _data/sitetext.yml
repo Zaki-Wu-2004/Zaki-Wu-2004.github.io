@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Resonant Paths
-    text: In the interplay of science and music, my life composes its symphony
+    title: In the interplay of science and music, my life composes its symphony.
+    text: Resonant Paths
     button: Tell Me More
     buttonlink: "#services"
 
