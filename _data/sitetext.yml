@@ -12,8 +12,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: In the interplay of science and music, composes life's symphony.
-    text: ML4S
+    title: Machine Learning for Science.
+    text: PhysiCS
     button: For Resonance
     buttonlink: "#news"
 
