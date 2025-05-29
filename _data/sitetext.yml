@@ -12,8 +12,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: In the interplay of science and music, compose life-symphony.
-    text: Machine Learning for Science.
+    title: "In the interplay of science and music, my life composes."
+    text: ML for Science.
     button: For Resonance
     buttonlink: "#news"
 
