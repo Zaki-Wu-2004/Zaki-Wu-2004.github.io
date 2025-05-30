@@ -48,7 +48,7 @@ en: &DEFAULT_EN
              alt="Zaki Wu"
              class="img-fluid rounded-circle float-start me-4 mb-4"
              style="max-width:200px;">
-        <p class="text-start">
+        <p class="text-left">
           I am a third-year undergraduate student at <strong>Yuanpei College, Peking University</strong>.
           My research interests span scientific machine learning—especially operator learning—
           together with relativistic quantum field theory and the interpretation of quantum mechanics.
