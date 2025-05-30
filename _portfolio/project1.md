@@ -29,8 +29,9 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 
 <p align="center"> <img src="assets/img/paper/tante_pipeline.jpg" width="88%"> </p>
 
-{: .text-justify .md-text-left }
+<p class="about">
 Time-Adaptive Transformer with Neural Taylor Expansion (TANTE). Our framework enables continuous-time prediction with dynamically adjusted step sizes based on local temporal complexity. TANTE generates forecasts by summing the predicted derivatives as a Taylor series within the confidence interval.
+</p>
 
 ## 🏆 Main Results
 
@@ -38,6 +39,8 @@ Time-Adaptive Transformer with Neural Taylor Expansion (TANTE). Our framework en
 
 {: .text-justify } 
 > L2RE (↓ lower is better) of rollouts on *T'* time points on four benchmarks (*TR*, *AM*, *VF*, and *RB*). Results are divided into three parts based on different model sizes. In each part, the best results are **bolded** and the second-best results are **underlined**. We **highlight** the globally best results using **blue** and mark our TANTE models with **red font**.
+
+---
 
 {:.text-left}
 - Date: May 19, 2025
