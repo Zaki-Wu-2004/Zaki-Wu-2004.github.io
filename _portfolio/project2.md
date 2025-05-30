@@ -26,6 +26,8 @@ Artificial microbial community design has gained increasing attention due to its
 
 <p align="center"> <img src="assets/img/paper/gcpnet_pipeline.jpg" width="88%"> </p>
 
+---
+
 {:.text-left}
 1. Genome Annotation → Feature Matrix
 2. Metabolic Similarity & Exchange → Graph Construction
