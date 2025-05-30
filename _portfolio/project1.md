@@ -7,10 +7,10 @@ alt: tante video
 caption:
   title: TANTE (May 19, 2025)
   subtitle: Time-Adaptive Operator Learning via Neural Taylor Expansion. (Operator Learning, Scientific Machine Learning, PDEs)
-  thumbnail: assets/img/paper/tante_video_fast.gif
+  thumbnail: assets/img/paper/tante_video_vertical.gif
 ---
 
-{:.text-start}      <!-- 只需这一行 -->
+<div class="text-start">
 
 ## 🔎 Abstract
 
@@ -36,3 +36,4 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 - Laboratory: [van Dijk Lab @Yale](https://www.vandijklab.org)
 - Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1)(legacy)
 
+</div>
