@@ -1,18 +1,30 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Predicting Microbial Community Productivity Based on Genomic Sequences
+subtitle: GCPNet leverages genome-derived metabolic interaction graphs and graph neural networks to forecast community-level productivity, achieving state-of-the-art accuracy and interpretability.
+image: assets/img/paper/gcpnet_pipeline.jpg
+alt: GCPNet pipeline
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: GCPNet (CISP-BMEI 2024)
+  subtitle: Predicting Microbial Community Productivity with Graph Neural Networks. (Computational Biology, Microbiome ML, GNNs)
+  thumbnail: assets/img/paper/gcpnet_pipeline.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+## 🔎 Abstract
+
+Artificial microbial community design has gained increasing attention due to its economic and environmental benefits. However, it is challenging considering the complex microbial interactions and emergent properties arising from metabolic networks. Although flux balance analysis (FBA), based on genome-scale metabolic models (GEMs), is a well-known approach for simulating community phenotypes, its inefficiency in handling communities with a large number of functional genes limits its utility. In this paper, we introduce a novel graph neural network model that incorporates growth-coupling effects to predict the productivity of microbial communities, which is impractical for prior techniques. Utilizing 83 high-quality bacterial GEMs, we trained and tested our model on a large number of bacterial communities containing two or three strains, each undergoing a random genetic modification (either knock-outs or knock-ins) within the community GEM. Our model demonstrates high concordance with FBA, achieving an average area under the curve (AUC) of 0.98, and a F1 score of 0.82. Notably, it operates approximately 6,415 times faster than FBA. Our model indicates that graph-based machine learning algorithms can significantly accelerate productivity prediction and hold potential to advance microbial community design, thereby guiding microbial engineering strategies.
+
+## 🧱 Pipeline
+
+<p align="center"> <img src="assets/img/paper/gcpnet_pipeline.jpg" width="88%"> </p>
+
+1. **Genome Annotation → Feature Matrix**  
+2. **Metabolic Similarity & Exchange → Graph Construction**  
+3. **GNN Encoder → Productivity Regressor**  
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- Date: Oct 26, 2024
+- DOI: [10.1109/CISP-BMEI64163.2024.10906150](https://doi.org/10.1109/CISP-BMEI64163.2024.10906150)
+- Venue: *17th International Congress on Image and Signal Processing, Biomedical Engineering & Informatics (CISP-BMEI 2024)*
+- Authors: Jiaheng Hou, Peter X. Geng, **Zhikai Wu**, Wenlin Fan, Huaiqiu Zhu
+- Laboratory: Zhu Lab @Peking University
