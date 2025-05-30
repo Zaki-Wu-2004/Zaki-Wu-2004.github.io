@@ -46,8 +46,8 @@ en: &DEFAULT_EN
       <div class="clearfix">
         <img src="assets/img/head.jpg"
              alt="Zaki Wu"
-             class="img-fluid rounded-circle float-start me-4 mb-3"
-             style="max-width:180px;">
+             class="img-fluid rounded-circle float-start me-4 mb-4"
+             style="max-width:200px;">
         <p class="text-start">
           I am a third-year undergraduate student at <strong>Yuanpei College, Peking University</strong>.
           My research interests span scientific machine learning—especially operator learning—
