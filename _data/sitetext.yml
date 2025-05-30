@@ -25,21 +25,21 @@ en: &DEFAULT_EN
       - title: "Scientific Machine Learning"
         icon: fas fa-brain
         desc: |-
-          <p class="text-md-justify">
+          <p class="text-justify">
             Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. <strong>operator learning</strong>).
           </p>
   
       - title: "Quantum"
         icon: fas fa-atom
         desc: |-
-          <p class="text-md-justify">
+          <p class="text-justify">
             Investigating mathematical formalisms in <strong>relativistic Quantum Field Theory</strong> and interpretations of quantum mechanics in fundamental physics.
           </p>
   
       - title: "Computational Biology"
         icon: fas fa-dna
         desc: |-
-          <p class="text-md-justify">
+          <p class="text-justify">
             Building <strong>genomic large-language models</strong> and graph neural networks to represent and process high-dimensional biological data.
           </p>
 
@@ -64,6 +64,8 @@ en: &DEFAULT_EN
           margin: 0 auto 1rem;
           width: 25%;
           max-width: 240px;
+          border-radius: 50%;
+          overflow: hidden;
         }
         @media (min-width: 768px) {
           .about-text {
@@ -75,6 +77,8 @@ en: &DEFAULT_EN
             margin: 0 0 1rem 1.5rem;
             width: 25%;
             max-width: 240px;
+            border-radius: 50%;
+            overflow: hidden;
           }
         }
       </style>
