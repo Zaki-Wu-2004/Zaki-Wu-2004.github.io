@@ -1,13 +1,13 @@
 ---
 title: Time-Adaptive Operator Learning via Neural Taylor Expansion
-subtitle: TANTE (Time-Adaptive Transformer with Neural Taylor Expansion) is a new operator-learning framework for time-dependent PDEs that uses **neural Taylor expansion** to make accurate, **continuous-time** predictions with **adaptive step sizes**, improving both accuracy and efficiency over fixed-step methods.
+subtitle: TANTE (Time-Adaptive Transformer with Neural Taylor Expansion) is a new operator-learning framework for time-dependent PDEs that uses neural Taylor expansion to make accurate, continuous-time predictions with adaptive step sizes, improving both accuracy and efficiency over fixed-step methods.
 image: assets/img/paper/tante_video.gif
 alt: tante video
 
 caption:
-  title: 2Time-Adaptive Operator Learning via Neural Taylor Expansion
-  subtitle: 2TANTE (Time-Adaptive Transformer with Neural Taylor Expansion) is a new operator-learning framework for time-dependent PDEs that uses **neural Taylor expansion** to make accurate, **continuous-time** predictions with **adaptive step sizes**, improving both accuracy and efficiency over fixed-step methods.
-  thumbnail: assets/img/paper/tante_pipeline.jpg
+  title: TANTE
+  subtitle: Time-Adaptive Operator Learning via Neural Taylor Expansion. (Operator Learning, Scientific Machine Learning, PDEs)
+  thumbnail: assets/img/paper/tante_video.gif
 ---
 ## 🔎 Abstract
 
@@ -28,6 +28,8 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 {:.list-inline}
 - Date: May 19, 2025
 - Paper: [TANTE: Time-Adaptive Operator Learning via Neural Taylor Expansion](http://arxiv.org/abs/2502.08574)
-- Code: [TANTE](https://github.com/zwu88/TANTE)
+- Code: [Github Repo of TANTE](https://github.com/zwu88/TANTE)
 - Authors: **Zhikai Wu**, Sifan Wang, Shiyang Zhang, Sizhuang He, Min Zhu, Anran Jiao, Lu Lu, David van Dijk
+- Laboratory: [van Dijk Lab @Yale](https://www.vandijklab.org)
+- Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1)(legacy)
 
