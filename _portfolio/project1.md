@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/paper/tante_video_vertical.gif
 ---
 
-<div class="text-start">
+
 
 ## 🔎 Abstract
 
@@ -36,4 +36,4 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 - Laboratory: [van Dijk Lab @Yale](https://www.vandijklab.org)
 - Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1)(legacy)
 
-</div>
+
