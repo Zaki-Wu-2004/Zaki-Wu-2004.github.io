@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "About"
       section: about
     - title: "Publications"
-      section: about
+      section: pub
     - title: "Timeline"
       section: timeline
     # - title: "Team"
