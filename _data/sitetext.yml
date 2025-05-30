@@ -62,7 +62,7 @@ en: &DEFAULT_EN
         .avatar {
           display: block;
           margin: 0 auto 1rem;
-          width: 50%;
+          max-width: 240px;
           border-radius: 50%;
           overflow: hidden;
         }
