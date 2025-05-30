@@ -24,8 +24,8 @@ en: &DEFAULT_EN
     list:
       - title: "[TANTE](http://arxiv.org/abs/2502.08574) Preprint released!"
         desc: "May 19, 2025."
-        # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        image: assets/img/paper/tante_abs.jpg
+        icon: assets/img/paper/tante_abs.jpg #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        # image: assets/img/paper/tante_abs.jpg
       - title: "[COAST](https://arxiv.org/abs/2502.08574v1) Preprint released!"
         desc: "Feb 16, 2025."
         # image: assets/img/paper/tante_abs.jpg
