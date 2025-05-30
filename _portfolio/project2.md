@@ -17,9 +17,9 @@ Artificial microbial community design has gained increasing attention due to its
 
 <p align="center"> <img src="assets/img/paper/gcpnet_pipeline.jpg" width="88%"> </p>
 
-1. **Genome Annotation → Feature Matrix**  
-2. **Metabolic Similarity & Exchange → Graph Construction**  
-3. **GNN Encoder → Productivity Regressor**  
+**Genome Annotation → Feature Matrix**  
+**Metabolic Similarity & Exchange → Graph Construction**  
+**GNN Encoder → Productivity Regressor**  
 
 
 {:.list-inline}
