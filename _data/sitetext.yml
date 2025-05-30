@@ -15,12 +15,12 @@ en: &DEFAULT_EN
     title: "In the interplay of science and music, my life composes."
     text: ML for Science
     button: For Resonance
-    buttonlink: "#news"
+    buttonlink: "#services"
 
-  news:
+  services:
     title: "News"
     text: "Lorem ipsum"
-    section: news
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
