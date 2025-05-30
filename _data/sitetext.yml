@@ -26,12 +26,12 @@ en: &DEFAULT_EN
         desc: "May 19, 2025"
         # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
         image: assets/img/paper/tante_abs.jpg
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      #- title: "Responsive Design"
+      #  desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #  icon: fas fa-laptop
+      #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #  desc: "Your description here, full **Markdown** support"
+      #  icon: fab fa-markdown
 
   portfolio:
     title: "Research"
