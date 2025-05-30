@@ -7,7 +7,7 @@ alt: tante video
 caption:
   title: TANTE (May 19, 2025)
   subtitle: Time-Adaptive Operator Learning via Neural Taylor Expansion. (Operator Learning, Scientific Machine Learning, PDEs)
-  thumbnail: assets/img/paper/tante_video_vertical.gif
+  thumbnail: assets/img/paper/tante_video_fast.gif
 ---
 
 {:.text-start}      <!-- 只需这一行 -->
