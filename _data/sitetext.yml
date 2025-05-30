@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[TANTE](http://arxiv.org/abs/2502.08574) Preprint released!"
+        desc: "May 19, 2025"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
