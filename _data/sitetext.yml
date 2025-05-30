@@ -18,20 +18,19 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "News"
-    text: "Lorem ipsum"
+    title: "Research Interests"
+    text: "From physics-guided neural operators and quantum field theory to bio-AI, my work explores how modern machine learning can accelerate scientific discovery across scales."
     section: services
     list:
-      - title: "[TANTE](http://arxiv.org/abs/2502.08574) Preprint released!"
-        desc: "May 19, 2025."
-        icon: assets/img/paper/tante_abs.jpg #fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        # image: assets/img/paper/tante_abs.jpg
-      - title: "[COAST](https://arxiv.org/abs/2502.08574v1) Preprint released!"
-        desc: "Feb 16, 2025."
-        # image: assets/img/paper/tante_abs.jpg
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Scientific Machine Learning"
+        desc: "Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. operator learning) ."
+        icon: fas fa-brain
+      - title: "Quantum"
+        desc: "Investigating mathematical formalisms in relativistic Quantum Field Theory and interpretations of quantum mechanics in fundamental physics."
+        icon: fas fa-atom  # https://fontawesome.com/icons/atom
+      - title: "Computational Biology"
+        desc: "Building genomic large-language models and graph neural networks to represent and process high-dimensional biological data."
+        icon: fas fa-dna   # https://fontawesome.com/icons/dna
 
   portfolio:
     title: "Research"
