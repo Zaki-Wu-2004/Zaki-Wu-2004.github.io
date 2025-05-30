@@ -29,7 +29,7 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 <p align="center"> <img src="assets/img/paper/tante_table.jpg" width="90%"> </p>
 
 {:.text-left}
-> L2RE (↓ lower is better) of rollouts on $T'$ time points on four benchmarks (*TR*, *AM*, *VF*, and *RB*). Results are divided into three parts based on different model sizes. In each part, the best results are **bolded** and the second-best results are **underlined**. We **highlight** the globally best results using **blue** and mark our TANTE models with **red font**.
+> L2RE (↓ lower is better) of rollouts on *T'* time points on four benchmarks (*TR*, *AM*, *VF*, and *RB*). Results are divided into three parts based on different model sizes. In each part, the best results are **bolded** and the second-best results are **underlined**. We **highlight** the globally best results using **blue** and mark our TANTE models with **red font**.
 
 {:.text-left}
 - Date: May 19, 2025
@@ -37,4 +37,4 @@ Operator learning for time-dependent partial differential equations (PDEs) has s
 - Code: [Github Repo of TANTE](https://github.com/zwu88/TANTE)
 - Authors: **Zhikai Wu**, Sifan Wang, Shiyang Zhang, Sizhuang He, Min Zhu, Anran Jiao, Lu Lu, David van Dijk
 - Laboratory: [van Dijk Lab @Yale](https://www.vandijklab.org)
-- Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1)(legacy)
+- Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1) (legacy)
