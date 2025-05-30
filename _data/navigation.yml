@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "News"
+    - title: "Research Interests"
       section: services
     - title: "Research"
       section: portfolio
