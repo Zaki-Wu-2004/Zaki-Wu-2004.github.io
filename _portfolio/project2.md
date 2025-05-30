@@ -6,7 +6,7 @@ alt: GCPNet pipeline
 
 caption:
   title: GCPNet (CISP-BMEI 2024)
-  subtitle: Predicting Microbial Community Productivity with Graph Neural Networks. (Computational Biology, Microbiome ML, GNNs)
+  subtitle: Predicting Microbial Community Productivity with Graph Neural Networks. (Computational Biology, GNNs)
   thumbnail: assets/img/paper/gcpnet_pipeline.jpg
 ---
 ## 🔎 Abstract
