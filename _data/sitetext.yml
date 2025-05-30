@@ -25,21 +25,21 @@ en: &DEFAULT_EN
       - title: "Scientific Machine Learning"
         icon: fas fa-brain
         desc: |-
-          <p class="text-justify">
+          <p class="text-left">
             Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. <strong>operator learning</strong>).
           </p>
   
       - title: "Quantum"
         icon: fas fa-atom
         desc: |-
-          <p class="text-justify">
+          <p class="text-left">
             Investigating mathematical formalisms in <strong>relativistic Quantum Field Theory</strong> and interpretations of quantum mechanics in fundamental physics.
           </p>
   
       - title: "Computational Biology"
         icon: fas fa-dna
         desc: |-
-          <p class="text-justify">
+          <p class="text-left">
             Building <strong>genomic large-language models</strong> and graph neural networks to represent and process high-dimensional biological data.
           </p>
 
@@ -62,8 +62,7 @@ en: &DEFAULT_EN
         .avatar {
           display: block;
           margin: 0 auto 1rem;
-          width: 25%;
-          max-width: 240px;
+          width: 50%;
           border-radius: 50%;
           overflow: hidden;
         }
