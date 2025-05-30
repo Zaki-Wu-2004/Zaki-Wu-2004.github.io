@@ -23,18 +23,18 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Scientific Machine Learning"
-        desc: "Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. operator learning) ."
+        desc: "Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. **operator learning**) ."
         icon: fas fa-brain
       - title: "Quantum"
-        desc: "Investigating mathematical formalisms in relativistic Quantum Field Theory and interpretations of quantum mechanics in fundamental physics."
+        desc: "Investigating mathematical formalisms in **relativistic Quantum Field Theory** and interpretations of quantum mechanics in fundamental physics."
         icon: fas fa-atom  # https://fontawesome.com/icons/atom
       - title: "Computational Biology"
-        desc: "Building genomic large-language models and graph neural networks to represent and process high-dimensional biological data."
+        desc: "Building **genomic large-language models** and graph neural networks to represent and process high-dimensional biological data."
         icon: fas fa-dna   # https://fontawesome.com/icons/dna
 
   portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Thought knows no rest note, and research never reaches its final bar."
     section: portfolio
     closebutton: "Close Project"
 
