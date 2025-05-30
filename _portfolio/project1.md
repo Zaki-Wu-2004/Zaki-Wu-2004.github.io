@@ -14,9 +14,8 @@ caption:
 
 ## 🔎 Abstract
 
-<div align="justify">
-  Operator learning for time-dependent partial differential equations (PDEs) has seen rapid progress in recent years, enabling efficient approximation of complex spatiotemporal dynamics. However, most existing methods rely on fixed time step sizes during rollout, which limits their ability to adapt to varying temporal complexity and often leads to error accumulation. To address this gap, we propose the Time-Adaptive Transformer with Neural Taylor Expansion (TANTE), a novel operator-learning framework that produces continuous-time predictions with adaptive step sizes. TANTE predicts future states by performing a Taylor expansion at the current state, where neural networks learn both the higher-order temporal derivatives and the local radius of convergence. This allows the model to dynamically adjust its rollout based on the local behavior of the solution, thereby reducing cumulative error and improving computational efficiency. We demonstrate the effectiveness of TANTE across a wide range of PDE benchmarks, achieving superior accuracy and adaptability compared to fixed-step baselines, delivering accuracy gains of 10-50% and speed-ups of 30-80% at inference.
-</div>
+{: .text-justify } 
+Operator learning for time-dependent partial differential equations (PDEs) has seen rapid progress in recent years, enabling efficient approximation of complex spatiotemporal dynamics. However, most existing methods rely on fixed time step sizes during rollout, which limits their ability to adapt to varying temporal complexity and often leads to error accumulation. To address this gap, we propose the Time-Adaptive Transformer with Neural Taylor Expansion (TANTE), a novel operator-learning framework that produces continuous-time predictions with adaptive step sizes. TANTE predicts future states by performing a Taylor expansion at the current state, where neural networks learn both the higher-order temporal derivatives and the local radius of convergence. This allows the model to dynamically adjust its rollout based on the local behavior of the solution, thereby reducing cumulative error and improving computational efficiency. We demonstrate the effectiveness of TANTE across a wide range of PDE benchmarks, achieving superior accuracy and adaptability compared to fixed-step baselines, delivering accuracy gains of 10-50% and speed-ups of 30-80% at inference.
 
 
 ## 🧱 Pipeline
@@ -30,7 +29,7 @@ Time-Adaptive Transformer with Neural Taylor Expansion (TANTE). Our framework en
 
 <p align="center"> <img src="assets/img/paper/tante_table.jpg" width="90%"> </p>
 
-{:.text-left}
+{: .text-justify } 
 > L2RE (↓ lower is better) of rollouts on *T'* time points on four benchmarks (*TR*, *AM*, *VF*, and *RB*). Results are divided into three parts based on different model sizes. In each part, the best results are **bolded** and the second-best results are **underlined**. We **highlight** the globally best results using **blue** and mark our TANTE models with **red font**.
 
 {:.text-left}
