@@ -19,7 +19,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Research Interests"
-    text: "From physics-guided neural operators and quantum field theory to bio-AI, \n my work explores how modern machine learning can accelerate scientific discovery across scales."
+    text: "From physics-guided neural operators and quantum field theory to bio-AI"
     section: services
     list:
       - title: "Scientific Machine Learning"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         icon: fas fa-dna   # https://fontawesome.com/icons/dna
 
   portfolio:
-    title: "Research"
+    title: "Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
