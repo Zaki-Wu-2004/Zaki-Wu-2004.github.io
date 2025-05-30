@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Publications"
-       section: team
     - title: "Timeline"
       section: timeline
+    - title: "Publications"
+       section: team
     - title: "Contact"
       section: contact
     # - title: "Theme Source"
